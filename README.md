@@ -3,7 +3,7 @@ README
 ===========================
 A complete enterprise website, including the Frontend and Backend admin page.  is uploaded in the repositories because of the end of the project/product life cycle. The code is for learning only and prohibits any business related behavior,website does not use any MVC framework, very suitable for beginners PHP study.
 
-PHP-WEBSITE-CTG 一个茶类销售网站，前端界面模拟的时候测试了一下，看着比较呆板，没办法，甲方永远就是上帝，得按他的要求来，记念一下了，我还记得当时的情景，比较悲催的结款过程，该项目包括前台后台，因为项目生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
+PHP-WEBSITE-CTG 一个茶类销售网站，看着比较呆板，没办法，甲方永远就是上帝，得按他的要求来，记念一下了，我还记得当时的情景，比较悲催的结款过程，该项目包括前台后台，因为项目生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
 站点前后端未用任何MVC框架、未用任何第三方CMS系统，不存在复杂的一堆看不明白的代码，全程序均手写，非常适合PHP初学者入门。  
 
 ****
