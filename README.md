@@ -7,7 +7,7 @@ PHP-WEBSITE-CTG 一个茶类销售网站，前端界面模拟的时候测试了�
 站点前后端未用任何MVC框架、未用任何第三方CMS系统，不存在复杂的一堆看不明白的代码，全程序均手写，非常适合PHP初学者入门。  
 
 ****
-![](https://github.com/Kokolpb/PHP-WEBSITE-CHIANTEA/blob/master/home.jpg)  
+![](https://github.com/Kokolpb/PHP-WEBSITE-CHINATEA/blob/master/home.jpg)  
 
 运行环境和下载地址 
 ===========================
