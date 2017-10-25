@@ -1,0 +1,10 @@
+该文件夹程序程序编程语言为php，请上传前确保你网站空间支持php
+
+1.只需要修改  alipay_config.php 文件里面的参数
+ 
+  别的页面不需要修改 
+2. 解压到alipay文件夹,访问里面的 index.php文件
+解压到alipay文件夹,访问里面的 index.asp文件
+   把以下代码嵌套到你需要显示支付接口的页面中即可
+
+<a href="alipay/index.php" target="_blank"><img src="images/alipay_bwrx.gif" width="155" height="55" border="0"></a>
